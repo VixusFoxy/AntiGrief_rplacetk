@@ -12,6 +12,7 @@ For this, change lines 1 and 2 to the starting and ending coordinates.
 Example:
 
 let selection_protect_start = [496,439]
+
 let selection_protect_end = [500, 447]
 
 Have fun :)
