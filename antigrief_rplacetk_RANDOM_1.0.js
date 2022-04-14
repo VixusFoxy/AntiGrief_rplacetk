@@ -1,6 +1,6 @@
 let colorArray = ["6d001a","be0039","ff4500","ffa800","ffd635","fff8b8","00a368","00cc78","7eed56","00756f","009eaa","00ccc0","2450a4","3690ea","51e9f4","493ac1","6a5Cff","94b3ff","811e9f","b44ac0","e4abff","de107f","ff3881","ff99aa","6d482f","9c6926","ffb470","000000","515252","898d90","d4d7d9","ffffff"];
 
-let selection_xy1 = [481, 431];
+let selection_xy1 = [481, 430];
 let selection_xy2 = [786, 475];
 
 let last_attempt = Date.now() - 5000;
@@ -168,7 +168,7 @@ function pixelToHex(pixel) {
 var x_rs = 1444;
 var x_re = 2361;
 
-var y_rs = 1294;
+var y_rs = 1291;
 var y_re = 1431;
 
 var x_length = parseInt((x_re - x_rs) / 3);
